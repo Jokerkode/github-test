@@ -1,3 +1,5 @@
-hei
+hei!
 
 har lært git
+
+det har du git ;-)
